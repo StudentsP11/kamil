@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#define SQR(x) (x*x)
 
 int main()
 {
